@@ -27,10 +27,3 @@ This application allows users to select their birthdate using a JavaScript datep
 
 ---
 
-## 📂 Project Structure
-age-calculator/
-│
-├── index.html
-├── style.css
-├── script.js
-└── README.md
